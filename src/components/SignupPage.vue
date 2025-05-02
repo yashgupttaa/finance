@@ -370,6 +370,7 @@ h1 {
   
   .left-side, .right-side {
     width: 100%;
+    padding: 32px;
   }
   
   .right-side {

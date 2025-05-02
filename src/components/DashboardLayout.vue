@@ -30,4 +30,11 @@ export default {
   min-height: 100vh;
   background-color: #F8FAFC;
 }
+
+@media (max-width: 768px) {
+  .main-content {
+    margin-left: 0;
+    padding: 72px 16px 16px 16px;
+  }
+}
 </style> 
